@@ -1,14 +1,14 @@
 # DBMS
 House Boat Management System
 
-Abstract:
+# Abstract:
   HouseBoat management system allows the owner of the company to
 efficiently monitor the booking history, accounts,check-in, checkout
 status of the boats. HouseBoat booking system is best suitable for
 managing your resources in a very simple and effective manner with
 minimal efforts and time so that it increases revenue.
 
-Specifications:
+# Specifications:
   A client provides his details such as his Name, Date of Birth, City,
 Country and his Contact Number at the time of booking. A Client is
 uniquely identified by a client_id. A Client can book a single boat per
